@@ -93,10 +93,6 @@ We welcome contributions! Follow these steps to contribute:
    ```
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For questions or collaboration, feel free to contact us:
